@@ -1,4 +1,4 @@
-import { Provider } from "react-redux";
+import { Provider } from "react-redux"; 
 
 import "../styles/antd.less";
 import "../styles/styles.scss";
